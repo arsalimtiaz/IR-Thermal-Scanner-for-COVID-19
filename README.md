@@ -1,0 +1,1 @@
+# IR-Thermal-Scanner-for-COVID-19
